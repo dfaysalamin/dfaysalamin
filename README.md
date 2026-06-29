@@ -37,13 +37,12 @@ Python • Bash • HTML • CSS • JavaScript
 ---
 
 ## 📁 Featured Projects
-## 📁 Featured Projects
 
--- 🐝 [bWAPP-Attack-Chain-Pentest](https://github.com/dfaysalamin/bWAPP-Attack-Chain-Pentest) — Attack-chain based web application penetration testing project on bWAPP, covering SQL Injection, Stored XSS, session hijacking simulation, file upload, web shell, and RCE
--- 🛡️ [VAPT-Metasploitable2-Report](https://github.com/dfaysalamin/VAPT-Metasploitable2-Report) — Vulnerability assessment and penetration testing report on Metasploitable2 with exploitation evidence and remediation guidance
--- 🔍 [Nmap-Scanner](https://github.com/dfaysalamin/Nmap-Scanner) — Interactive Nmap automation tool
--- 🌐 [NetRecon-Suite](https://github.com/dfaysalamin/NetRecon-Suite) — Python-based network reconnaissance toolkit
--- ⚡ [ReconX-Scanner](https://github.com/dfaysalamin/ReconX-Scanner) — Multi-threaded TCP port scanner
+- 🐝 [bWAPP-Attack-Chain-Pentest](https://github.com/dfaysalamin/bWAPP-Attack-Chain-Pentest) — Attack-chain based web application penetration testing project on bWAPP, covering SQL Injection, Stored XSS, session hijacking simulation, file upload, web shell, and RCE
+- 🛡️ [VAPT-Metasploitable2-Report](https://github.com/dfaysalamin/VAPT-Metasploitable2-Report) — Vulnerability assessment and penetration testing report on Metasploitable2 with exploitation evidence and remediation guidance
+- 🔍 [Nmap-Scanner](https://github.com/dfaysalamin/Nmap-Scanner) — Interactive Nmap automation tool
+- 🌐 [NetRecon-Suite](https://github.com/dfaysalamin/NetRecon-Suite) — Python-based network reconnaissance toolkit
+- ⚡ [ReconX-Scanner](https://github.com/dfaysalamin/ReconX-Scanner) — Multi-threaded TCP port scanner
 
 
 ---
